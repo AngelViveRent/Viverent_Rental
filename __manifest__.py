@@ -5,7 +5,7 @@
     'author': 'Angel Barrera',
     'category': 'Services',
     'description': '''Modulo para la gestion de rentas de inmuebles''',
-    'data': ['views/viverent_menu.xml'],
+    'data': ['views/viverent_menu.xml', 'views/viverent_renta_views.xml'],
     'license': 'LGPL-3',
     'application' : True,
     'auto_install' : True,
