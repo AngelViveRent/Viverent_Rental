@@ -1,0 +1,3 @@
+<odoo>
+    <menuitem id="menu_viverent_root" name="Viverent" sequence="10" />
+</odoo>
