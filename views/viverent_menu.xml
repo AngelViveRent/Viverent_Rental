@@ -1,11 +1,11 @@
 <odoo>
-
-    <!-- Acción -->
-    <record id="action_viverent_renta_kanban" model="ir.actions.act_window">
-        <field name="name">Tablero de Rentas</field>
-        <field name="res_model">viverent.renta</field>
-        <field name="view_mode">kanban,tree,form</field>
-    </record>
+    <data>
+        <record id="action_viverent_renta_kanban" model="ir.actions.act_window">
+            <field name="name">Tablero de Rentas</field>
+            <field name="res_model">viverent.renta</field>
+            <field name="view_mode">kanban,tree,form</field>
+        </record>
+    </data>
 
     <menuitem id="menu_viverent_root" name="Viverent" sequence="10"/>
 
